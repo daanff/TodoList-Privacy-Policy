@@ -13,6 +13,7 @@ Google Ads may collect the following types of data:
 - Diagnostic Information: Includes crash reports and performance data.
 
 Google uses this data to provide personalized ads and improve their advertising services. For more information on how Google handles collected data, please refer to Google’s Privacy Policy.
+
 No Networking Requirement
 
 The use of the App does not require networking, except for fetching ads from Google Ads.
